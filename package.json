@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
+    "@nestjs/config": "^4.0.4"
+  }
+}
